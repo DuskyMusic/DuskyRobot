@@ -432,13 +432,13 @@ async def is_using_Dusky(user_id):
     return True
 
 async def add_user(user_id):
-    is_using = await is_using_rose(user_id)
+    is_using = await is_using_Dusky(user_id)
     if is_using:
         return
     return await usersdb.insert_one({"user_id": user_id}) 
 
 async def remove_user(user_id):
-    is_using = await is_using_rose(user_id)
+    is_using = await is_using_Dusky(user_id)
     if not is_using:
         return
     return await usersdb.delete_one({"user_id": user_id})
