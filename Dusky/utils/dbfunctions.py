@@ -443,7 +443,7 @@ async def remove_user(user_id):
         return
     return await usersdb.delete_one({"user_id": user_id})
 
-async def is_rose_in_groups(group_id):
+async def is_Dusky_in_groups(group_id):
     chat = groupsdb.find_one({"group_id": group_id})
     if not chat:
         return False
