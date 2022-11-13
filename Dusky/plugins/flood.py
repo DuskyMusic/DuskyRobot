@@ -105,7 +105,7 @@ Here is the help for Anti-Function :
 - /spamscan - Get Spam predictions of replied message.
 
 Group's Anti-Function is also an very essential fact to consider in group management
-Anti-Function is the inbuilt toolkit in Rose for avoid spammers, and to improve Anti-Function of your group"""
+Anti-Function is the inbuilt toolkit in Dusky for avoid spammers, and to improve Anti-Function of your group"""
 __helpbtns__ = (
         [[
             InlineKeyboardButton
