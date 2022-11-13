@@ -450,13 +450,13 @@ async def is_rose_in_groups(group_id):
     return True
 
 async def add_group(group_id):
-    is_using = await is_rose_in_groups(group_id)
+    is_using = await is_Dusky_in_groups(group_id)
     if is_using:
         return
     return await groupsdb.insert_one({"group_id": group_id}) 
 
 async def remove_group(group_id):
-    is_using = await is_rose_in_groups(group_id)
+    is_using = await is_Dusky_in_groups(group_id)
     if not is_using:
         return
     return await groupsdb.delete_one({"group_id": group_id})
