@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-v3.9.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DuskyMusic/DuskyRobot/graphs/commit-activity)
 <p align='left'>
- <a href="https://heroku.com/deploy?template=https://github.com/DuskyMusic/DuskyRose"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
+ <a href="https://heroku.com/deploy?template=https://github.com/DuskyMusic/DuskyRobot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
 </p>
 
 [DuskyRobot](https://github.com/DuskyMusic/DuskyRobot) is the most featured group management bot ever made with advance Anti module !
