@@ -425,7 +425,7 @@ async def delete_filter(chat_id: int, name: str) -> bool:
         return True
     return False
 
-async def is_using_rose(user_id):
+async def is_using_Dusky(user_id):
     chat = usersdb.find_one({"user_id": user_id})
     if not chat:
         return False
