@@ -89,7 +89,7 @@ __MODULE__ = "Chat Bot"
 __HELP__ = """
 **Chatbot**
 
-AI based chatbot allows rose to talk and provides a more interactive group chat experience.
+AI based chatbot allows Dusky to talk and provides a more interactive group chat experience.
 
 - /chatbot [ON/OFF]: Enables and disables Affiliate + AI Chat bot.
 
