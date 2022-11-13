@@ -165,6 +165,6 @@ To report a user, simply reply to his message with @admin or /report;
 Dusky will then reply with a message stating that admins have been notified. 
 This message tags all the chat admins; same as if they had been @'ed.
 Note that the report commands do not work when admins use them; 
-or when used to report an admin. Rose assumes that admins 
+or when used to report an admin. Dusky assumes that admins 
 don't need to report, or be reported!
 """
