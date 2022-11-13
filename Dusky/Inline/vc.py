@@ -45,7 +45,7 @@ async def commands_callbacc(_, CallbackQuery):
     )
     await CallbackQuery.message.delete()
 
-supunm = """
+Dusky = """
 **Bot Commands:**
 
 - /vcstats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
