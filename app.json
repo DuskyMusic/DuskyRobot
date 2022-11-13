@@ -56,7 +56,7 @@
             "required": true
         },
         "COMMAND_PREFIXES": {
-            "description": "now you can set custom command handler for rose like : / ! ,",
+            "description": "now you can set custom command handler for Dusky like : / ! ,",
             "required": true
         }
     },
