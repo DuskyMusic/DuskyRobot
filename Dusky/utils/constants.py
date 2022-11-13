@@ -1,7 +1,7 @@
 # Copyright (C) 2022 DuskyMusic
 # Copyright (C) 2022 @DuskyRobot
 
-# This file is part of @szrosebot (Telegram Bot)
+# This file is part of @DuskyRobot (Telegram Bot)
 
 from pyrogram.filters import command, edited
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
