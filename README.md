@@ -19,7 +19,7 @@
  - [Source Code ](https://github.com/DuskyMusic/DuskyRobot)
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
-Rose is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+DuskyRobot is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 <p align="center">
 <a href="https://t.me/OFFICIAL_DUSKY"> <img src="https://img.shields.io/badge/Dusky-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a> 
