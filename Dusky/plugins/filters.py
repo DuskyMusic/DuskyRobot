@@ -389,7 +389,7 @@ async def filters_watcher(c: app, m: Message):
 __MODULE__ = "Filters"
 __HELP__ = """
 Make your chat more lively with filters; The bot will reply to certain words!
-Filters are case insensitive; every time someone says your trigger words, Rose will reply something else! can be used to create your own commands, if desired.
+Filters are case insensitive; every time someone says your trigger words, Dusky will reply something else! can be used to create your own commands, if desired.
 
 **Commands:**
 - /filter <trigger> <reply>: Every time someone says "trigger", the bot will reply with "sentence". For multiple word filters, quote the trigger.
