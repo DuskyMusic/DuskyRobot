@@ -1,5 +1,5 @@
 ###################################
-####    From  Dusky Music Bot V2  ####
+#### From  Dusky Music Bot V2  ####
 ###################################
 
 from lang import get_string
@@ -112,7 +112,7 @@ async def language_markup(_, CallbackQuery):
 
 __MODULE__ = "Languages"
 __HELP__ = """
-Not every group speaks fluent english; some groups would rather have Rose respond in their own language.
+Not every group speaks fluent english; some groups would rather have Dusky respond in their own language.
 
 This is where translations come in; you can change the language of most replies to be in the language of your choice!
 
