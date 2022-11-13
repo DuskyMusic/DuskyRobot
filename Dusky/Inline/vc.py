@@ -3,7 +3,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton,InlineKeyboardMarkup
 
 
-supun = """
+Dusky = """
 **Admin Commands:**
 
 c stands for channel play.
@@ -39,7 +39,7 @@ Auth Users can use admin commands without admin rights in your chat.
 async def commands_callbacc(_, CallbackQuery):
     await app.send_message(
         CallbackQuery.message.chat.id,
-        text=supun,
+        text=Dusky,
         reply_markup=close,
         disable_web_page_preview=True,
     )
