@@ -127,7 +127,7 @@ hello
 how are you
 ```
 This will randomly choose between sending the first message, "hello", or the second message, "how are you".
- Use this to make Rose feel a bit more customised! (only works in notes/filters/greetings)
+ Use this to make Dusky feel a bit more customised! (only works in notes/filters/greetings)
 **Example welcome message::**
 - Every time a new user joins, they'll be presented with one of the three messages shown here.
 -> ```
