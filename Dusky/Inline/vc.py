@@ -69,7 +69,7 @@ async def commands_callbacc(_, CallbackQuery):
     await CallbackQuery.message.delete()
 
 
-supunma = """
+Dusky = """
 **Extra  Commands:**
 Group Settings:
 - /settings - Get a complete group's settings with inline buttons
