@@ -4,7 +4,7 @@ from Dusky.mongo import MongoDB
 
 INSERTION_LOCK = RLock()
 
-from Rose.mongo import usersdb
+from Dusky.mongo import usersdb
 
 class Users(MongoDB):
     db_name = "users"
